@@ -1,0 +1,23 @@
+[
+    {
+        "brand_url":"assets/images/pizza-hut.png",
+        "brand_name":"Pizza Hut",
+        "brand_description":""
+    },
+    {
+        "brand_url":"assets/images/burger-king.png",
+        "brand_name":"Burger King",
+        "brand_description":""
+    },
+    {
+        "brand_url":"assets/images/dominos.png",
+        "brand_name":"Dominos",
+        "brand_description":""
+    },
+    {
+        "brand_url":"assets/images/kfc.png",
+        "brand_name":"KFC",
+        "brand_description":""
+    }
+
+]

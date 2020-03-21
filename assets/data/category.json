@@ -1,0 +1,31 @@
+[
+        {
+            "id":"1",
+            "icon_url":"assets/images/pint-of-beer.png",
+            "catergory_name":"Light Life",
+            "detail":"100+Eateries",
+            "color":"#ffcc00"
+        },
+        {
+            "id":"2",
+            "icon_url":"assets/images/pizza.png",
+            "catergory_name":"Fine Dining",
+            "detail":"120+Eateries",
+            "color":"#99ccff"
+        },
+        {
+            "id":"3",
+            "icon_url":"assets/images/ice-cream.png",
+            "catergory_name":"Fast Food",
+            "detail":"150+Eateries",
+            "color":"#ffa64d"
+        },
+        {
+            "id":"4",
+            "icon_url":"assets/images/pint-of-beer.png",
+            "catergory_name":"Light Life",
+            "detail":"100+Eateries",
+            "color":"#ffcc00"
+        }
+        
+    ]

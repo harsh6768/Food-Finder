@@ -1,0 +1,30 @@
+[
+    {
+        "id":"1",
+        "seafood_url":"assets/images/seafood1.png",
+        "seafood_name":"Shrimp",
+        "seafood_description":"Seafood buffet",
+        "color":"#ffcc00"
+    },
+    {
+        "id":"2",
+        "seafood_url":"assets/images/seafood2.png",
+        "seafood_name":"",
+        "seafood_description":"",
+        "color":"#99ccff"
+    },
+    {
+        "id":"3",
+        "seafood_url":"assets/images/seafood3.png",
+        "seafood_name":"",
+        "seafood_description":"",
+        "color":"#ffa64d"
+    },
+    {
+        "id":"4",
+        "seafood_url":"assets/images/seafood1.png",
+        "seafood_name":"",
+        "seafood_description":"",
+        "color":"#ffcc00"
+    }
+]

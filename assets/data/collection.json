@@ -1,0 +1,42 @@
+[
+    {
+
+        "id":"1",
+        "image_url":"assets/images/collection1.png",
+        "name":"Breakfast",
+        "description":"Collection 4",
+        "ratings":"5",
+        "reviews":"12 reviews",
+        "color":"#ffcc00"
+    },
+    {
+
+        "id":"2",
+        "image_url":"assets/images/collection3.png",
+        "name":"Lunch",
+        "description":"Collection 12",
+        "ratings":"4",
+        "reviews":"10 reviews",
+        "color":"#ffa64d"
+    },
+    {
+
+        "id":"3",
+        "image_url":"assets/images/collection2.png",
+        "name":"Tea time",
+        "description":"Collection 10",
+        "ratings":"5",
+        "reviews":"8 reviews",
+        "color":"#99ccff"
+    },
+    {
+
+        "id":"1",
+        "image_url":"assets/images/collection1.png",
+        "name":"Breakfast",
+        "description":"Collection 4",
+        "ratings":"5",
+        "reviews":"12 reviews",
+        "color":"#ffcc00"
+    }
+]

@@ -1,0 +1,31 @@
+[
+       {
+           "id":"1",
+           "url":"assets/images/butter_chicken.jpg",
+           "name":"Butter Ckicken",
+           "description":"Stuffed Chiken,Butter",
+           "category":"nonveg"
+       },
+       {
+        "id":"2",
+        "url":"assets/images/samosa1.jpeg",
+        "name":"Samosas",
+        "description":"Aloo,Onion",
+        "category":"veg"
+       },
+       {
+        "id":"3",
+        "url":"assets/images/aloo_gobi.jpg",
+        "name":"Aloo Gobi",
+        "description":"Aloo,Gobi,Onion,Tomato",
+        "category":"veg"
+       },
+       {
+        "id":"4",
+        "url":"assets/images/pasta.jpg",
+        "name":"Pasta",
+        "description":"Pasta,Onion,Garlic",
+        "category":"veg"
+       }
+
+   ]
