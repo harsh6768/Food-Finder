@@ -1,11 +1,14 @@
 
-#####
-#### :heart: Star :heart: the repo to support the project or :smile:[Follow Me](https://github.com/harsh6768).Thanks!
+## :heart: Star :heart: the repo to support the project or :smile:[Follow Me](https://github.com/harsh6768).Thanks!
 
 
-<img src="https://github.com/octivia/E-commerce/blob/master/Upload_Image/Screenshot_20190113-153759.png" alt="" 
-width="250" height="450" >.........................<img src="https://github.com/octivia/E-commerce/blob/master/Upload_Image/Screenshot_20190113-153803.png" alt="" width="250" height="450" >
-......... <img src="https://github.com/octivia/E-commerce/blob/master/Upload_Image/Screenshot_20190113-153813.png"
+<img src="https://github.com/harsh6768/Kairat/blob/master/Images/r1.jpeg" alt="" 
+width="250" height="450" >.........................
+<img src="https://github.com/harsh6768/Kairat/blob/master/Images/r2.jpeg" alt="" width="250" height="450" >
+.........
+<img src="https://github.com/harsh6768/Kairat/blob/master/Images/r3.jpeg"
+alt="" width="250" height="450" >.............
+<img src="https://github.com/harsh6768/Kairat/blob/master/Images/r4.jpeg"
 alt="" width="250" height="450" >
 
 ## Getting Started
