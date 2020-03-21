@@ -1,6 +1,8 @@
 
 ## :heart: Star :heart: the repo to support the project or :smile:[Follow Me](https://github.com/harsh6768).Thanks!
 
+Inspired by Dribble Design
+https://dribbble.com/shots/10744792-Food-Finder-Application
 
 <img src="https://github.com/harsh6768/Kairat/blob/master/Images/r1.jpeg" alt="" 
 width="250" height="450" >.........................
